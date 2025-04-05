@@ -1,4 +1,4 @@
-import os
+import android
 try:
     import requests,colorama,prettytable
 except:
